@@ -31,7 +31,7 @@
 ### 克隆与构建
 
 ```bash
-git clone https://github.com/ygnstudio/Duty.git
+git clone https://github.com/YanGN-ST/Duty.git
 cd Duty
 swift build -c release
 ```
@@ -77,4 +77,4 @@ Duty 暂无自动化测试。改动请在菜单栏实际操作验证（设置默
 
 - Issue 优先：[GitHub Issues](../../issues)
 - 小红书私信：[YanGN 的主页](https://www.xiaohongshu.com/user/profile/66a7e7ae000000001d023641)
-- GitHub 主页：<https://github.com/ygnstudio>
+- GitHub 主页：<https://github.com/YanGN-ST>
